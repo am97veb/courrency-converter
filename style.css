@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: azure;
+    max-width: 600px;
+    padding: 50px;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+}
