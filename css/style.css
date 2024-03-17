@@ -7,9 +7,9 @@ html {
 }
 
 .body {
-    background-color: azure;
-    max-width: 600px;
-    padding: 50px;
+    background-image: url("../image/exchange-61usj3k0iaya8ys1.jpg");
+    background-size: cover;
     font-family: "Raleway", sans-serif;
     font-weight: bold;
+    color:white;
 }
