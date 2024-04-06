@@ -1,5 +1,7 @@
 # Currency Converter by Adrian Markefka
 
+! [Presentation](image/AnimationWebsite.gif)
+
 ## Demo
 
 https://am97veb.github.io/courrency-converter/
