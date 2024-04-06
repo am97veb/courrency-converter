@@ -1,6 +1,6 @@
 # Currency Converter by Adrian Markefka
 
-! [Presentation](image/AnimationWebsite.gif)
+![Presentation](image/AnimationWebsite.gif)
 
 ## Demo
 
