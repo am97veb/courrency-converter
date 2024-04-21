@@ -8,4 +8,6 @@ https://am97veb.github.io/courrency-converter/
 
 ## Description
 
-The currency converter is a simple tool that allows you to convert the amount entered in the appropriate field into one of three currencies: EUR, USD, CHF. HTML, CSS and JavaScript were used to develop this tool
+Currency converter is a simple tool that allows you to convert PLN to one of three currencies: EUR, USD, CHF. Just enter the amount to be converted in the appropriate place and select the chosen currency from the list.
+
+I used Visual Studio Code, Cascading Style Sheets and JavaScript to develop this tool.
